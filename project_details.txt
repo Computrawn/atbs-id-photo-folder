@@ -34,6 +34,6 @@ for foldername, subfolders, filenames in os.walk('C:\\'):
     # If more than half of files were photos,
     # print the absolute path of the folder.
     if TODO:
-print(TODO)
+        print(TODO)
 ———————————————————————————————————————————————————————————————————————————
 When the program runs, it should print the absolute path of any photo folders to the screen.
